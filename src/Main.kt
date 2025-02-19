@@ -8,7 +8,7 @@ fun main() {
 
 
     val nameLength = cityName?.length ?: 9
-// Outputs 0 as employeeName is null
+
     println(nameLength)
 
 }
